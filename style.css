@@ -1,0 +1,271 @@
+/* CSS reset */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* CSS variable */
+/* :root{
+    --navbar-height: 59px;
+} */
+
+/* Navigation Bar */
+#logo{
+    display: flex;
+    align-items: center;
+}
+
+#logo img{
+    padding: 0px 25px;
+}
+
+#navbar{
+    display: flex;
+}
+
+#navbar ul{
+    height: 58px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#navbar ul li{
+    list-style: none;
+    padding: 0px 23px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 18px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+nav ul li a:hover{
+    font-weight: bolder
+}
+
+.btn{
+padding: 6px 20px;
+border: 2px solid black;
+background-color: white;
+color: black;
+margin: 17px;
+font-size: 1.0rem;
+border-radius: 5px;
+cursor: pointer;
+}
+
+
+.line{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:  50px 50px 25px 50px;
+    font-size: 40px;
+}
+
+.line2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    text-align: center;
+    padding: 0px 20px;
+}
+
+.card1{
+    max-width: 91vw;
+    margin: auto;
+}
+
+.card1 h1{
+    padding: 100px 0px 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card1 h3{
+    padding: 0px 0px 20px;
+    font-size: 25px;
+}
+
+.CARD1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    overflow: hidden;
+}
+
+.card-item1{
+    /* width: 252px; */
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 35px;
+    padding: 0px 30px 30px;
+}
+
+.text-center{
+    font-size: 18px;
+    padding: 10px;
+}
+
+.box1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+
+.boxa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* padding: 30px; */
+}
+
+.box2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 30px 10px 30px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.box3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card2{
+    max-width: 91vw;
+    margin: auto;
+}
+
+.card2 h1{
+    padding: 100px 0px 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card2 h4{
+    padding: 0px 0px 20px;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.CARD2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    overflow: hidden;
+}
+
+.card-item2{
+    /* width: 252px; */
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 35px;
+    padding: 30px 30px 30px;
+}
+
+.containerA{
+    padding: 30px 0px 30px 400px ;
+}
+
+.containerB{
+    padding: 30px 0px 30px 400px ;
+}
+
+
+.containerC{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+
+.boxb{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 0px 10px;
+}
+
+.boxc h4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* padding: 10px 30px 10px 30px; */
+    font-size: 25px;
+}
+
+#end h1{
+    text-decoration: underline;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 0px 10px;
+}
+
+#end::before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 54%;
+    z-index: -1;
+    
+}
+
+#icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon{
+    padding: 34px;
+}
+
+footer ul{
+    height: 58px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+footer ul li{
+    list-style: none;
+    padding: 0px 23px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 18px;
+}
+
+footer ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+footer ul li a:hover{
+    font-weight: bolder
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgrey;
+    padding: 9px 20px;
+}
+
+footer .copy{
+padding: 0px 0px 0px 100px;
