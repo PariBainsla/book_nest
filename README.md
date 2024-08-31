@@ -1,9 +1,6 @@
 # BookNest
 Online Bookstore | Buy Books Online
-![s0](https://github.com/PariBainsla/BookNest/assets/153187084/011bc962-2921-4537-b6da-ce6ac8637393)
-![s2](https://github.com/PariBainsla/BookNest/assets/153187084/a1dbe485-a0a8-47e2-a798-23abee4c8152)
-![s3](https://github.com/PariBainsla/BookNest/assets/153187084/e6ea9099-f5d9-4a33-8ec7-a4f543f15717)
-![s4](https://github.com/PariBainsla/BookNest/assets/153187084/e9217bbe-33ec-40d2-a2db-34dab97afc01)
-![s5](https://github.com/PariBainsla/BookNest/assets/153187084/0ff77196-0ab8-4dff-8456-0d3038aa6274)
-![s9](https://github.com/PariBainsla/BookNest/assets/153187084/f24f3783-6a9e-420d-8e61-f7102d1bb035)
-![s7](https://github.com/PariBainsla/BookNest/assets/153187084/a32f5f81-5971-4a27-b887-52eb3b7f7e9d)
+
+![s1](https://github.com/user-attachments/assets/6c14e1ab-3e6d-471a-afba-17596c23c02e)
+![s2](https://github.com/user-attachments/assets/c6967552-929e-4192-b070-efba800f15f4)
+![s3](https://github.com/user-attachments/assets/517a1d67-a0c7-4fb3-b590-cbc7a8fdb3b5)
