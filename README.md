@@ -1,5 +1,5 @@
 # BookNest
-Online Bookstore | Buy Books Online
+Online Bookstore | Buy Books Online | Open https://booknestpage.netlify.app/ to view it in your browser.
 
 ![S11](https://github.com/user-attachments/assets/7f58c895-130e-4bba-b454-cc89207ea9c6)
 ![s2](https://github.com/user-attachments/assets/c6967552-929e-4192-b070-efba800f15f4)
